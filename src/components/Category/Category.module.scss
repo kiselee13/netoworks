@@ -1,0 +1,95 @@
+.f_block {
+    top: 1674px;
+    position: absolute;
+    text-align: left;
+    margin-left: 120px;
+}
+
+.service {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    color: #2C2D2E;
+
+}
+
+.click {
+    width: 106px;
+    height: 46px;
+    background: #EDEFFF;
+    border: 1px solid #465EFD;
+    border-radius: 12px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #465EFD;
+}
+
+.it,
+.text,
+.seo,
+.consul {
+    height: 46px;
+    background-color: white;
+    color: #2C2D2E;
+}
+
+.categ {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    gap: 16px;
+}
+
+.butt {
+    
+    width: 387px;
+    height: 100px;
+    border-style: none;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 16, 61, 0.12);
+    box-shadow: 0px 6px 12px -6px rgba(24, 39, 75, 0.03), 0px 8px 24px -4px rgba(24, 39, 75, 0.02);
+    border-radius: 16px;
+
+
+}
+
+.bigbtn{
+
+    display: flex;
+    text-align: left;
+    gap: 20px;
+    margin-top: 24px;
+}
+
+.btn_one, .btn_two, .btn_three, .btn_four, .btn_five, .btn_six {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    margin-top: -5px;
+}
+
+.txt_xl {
+    margin-left: 76px;
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #212122;
+    
+}
+
+.txt_xs{
+    margin-left: 76px;
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #525254;
+    margin-top: 8px;
+
+}

@@ -1,0 +1,58 @@
+.s_block{
+    top:2162px;
+    margin-left: 120px;
+    position: absolute;
+    
+    
+}
+
+.works{
+    text-align: left;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    color: #2C2D2E;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.help{
+
+ margin-top: 40px;
+align-items: center;
+padding: 32px 0px;
+width: 387px;
+height: 347px;
+background: #FFFFFF;
+border-radius: 16px;
+}
+
+.descr{
+font-family: 'Inter';
+
+font-weight: 600;
+font-size: 25px;
+text-align: center;
+color: #2C2D2E;
+}
+
+.descr_xs{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #2C2D2E;
+}
+
+.ppl{
+    margin-top: 45px;
+width: 200px;
+height: 200px;
+
+}

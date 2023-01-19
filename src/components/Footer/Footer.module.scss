@@ -1,0 +1,62 @@
+.footer{
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    position: absolute;
+    width: 1440px;
+    height: 284px;
+    top: 2707px;
+
+}  
+
+.llogo{
+
+    
+    margin-top: 80px;
+}
+
+.rules{
+font-family: 'Inter';
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #2C2D2E;
+}
+
+.contain{
+    margin-left: 120px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 62.63px;
+}
+
+.list{
+    
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 350px;
+    margin-top: 80px;
+    gap:16px;
+}
+
+li{
+font-family: 'Inter';
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #2C2D2E;
+
+}
+
+.secure{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 1000px;
+
+   bottom: 135px;
+    
+}

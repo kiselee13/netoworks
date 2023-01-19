@@ -1,0 +1,87 @@
+.thirdblock {
+    display: flex;
+    flex-direction: column;
+    top: 780px;
+    text-align: left;
+    position: absolute;
+    left: 120px;
+}
+
+.ttxt {
+   
+    width: 621px;
+    height: 58px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    color: #2C2D2E;
+}
+
+.card_item {
+    overflow: hidden;
+    align-self: stretch;
+    width: 276px;
+    height: 332px;
+    background: #FFFFFF;
+    box-shadow: 0px 16px 32px rgba(0, 0, 0, 0.04);
+    border-radius: 16px;
+    
+}
+
+.userpic_>*{
+    
+width: 32px;
+height: 32px;
+}
+
+
+
+
+
+.t_cards{
+    
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    
+}
+
+.userpic, .userpic_2, .userpic_3{
+    margin-top: 24px;
+    margin-left: 16px;
+    width: 32px;
+    height: 32px;
+}
+
+.names{    
+position: relative;
+font-family: 'lato-semibold-6', sans-serif;
+font-weight: 600;
+font-size: 20px;
+color: #2C2D2E;
+margin-left: 58px;
+bottom: 30px;
+
+
+}
+
+.portfolio{
+
+width: 244px;
+height: 48px;
+background-color:  #465EFD;
+border-radius: 12px;
+border-style: none;
+font-family: 'Lato', sans-serif;
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+margin-left: 16px;
+
+
+
+}
+
